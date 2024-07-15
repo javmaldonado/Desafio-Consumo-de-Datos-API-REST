@@ -1,24 +1,15 @@
-# desafio-consumo-de-datos
+# Desafio Consumo de datos desde una API REST
 
-## Project setup
-```
-npm install
-```
+El código permite:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+1. Utilizar Axios para el consumo de datos de la API Random User.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+2. Usar el ciclo de vida de los componentes para obtener la información de los usuarios
+al cargar la aplicación.
 
-### Lints and fixes files
-```
-npm run lint
-```
+3. Utilizar los eventos para agregar las interacciones que permitan el registro de nuevos
+mensajes en el chat.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+4. Hacer uso del style y/o class binding para el direccionamiento y el color de fondo de
+los mensajes según corresponda a su propietario. 
+
